@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>QSITFourthTask</Name>
+		<Assembly>QSITFourthTask.dll</Assembly>
+		<FullClassName>QSITFourthTask.CreateStrColExteranlcommand</FullClassName>
+		<VendorId>QSIT</VendorId>
+		<VendorDescription>Create five structural columns</VendorDescription>
+		<AddInId>
+			8896FFFC-F1F6-42D5-A1E9-DDCA733013A8
+		</AddInId>
+	</AddIn>
+</RevitAddIns>
