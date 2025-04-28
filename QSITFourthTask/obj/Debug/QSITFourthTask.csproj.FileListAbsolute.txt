@@ -1,0 +1,7 @@
+C:\Users\EL MAGIC\source\repos\QSITFourthTask\QSITFourthTask\bin\Debug\app.addin
+C:\Users\EL MAGIC\source\repos\QSITFourthTask\QSITFourthTask\bin\Debug\QSITFourthTask.dll
+C:\Users\EL MAGIC\source\repos\QSITFourthTask\QSITFourthTask\bin\Debug\QSITFourthTask.pdb
+C:\Users\EL MAGIC\source\repos\QSITFourthTask\QSITFourthTask\obj\Debug\QSITFourthTask.csproj.AssemblyReference.cache
+C:\Users\EL MAGIC\source\repos\QSITFourthTask\QSITFourthTask\obj\Debug\QSITFourthTask.csproj.CoreCompileInputs.cache
+C:\Users\EL MAGIC\source\repos\QSITFourthTask\QSITFourthTask\obj\Debug\QSITFourthTask.dll
+C:\Users\EL MAGIC\source\repos\QSITFourthTask\QSITFourthTask\obj\Debug\QSITFourthTask.pdb
